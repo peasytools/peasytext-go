@@ -3,6 +3,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/peasytools/peasytext-go.svg)](https://pkg.go.dev/github.com/peasytools/peasytext-go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/peasytools/peasytext-go)](https://goreportcard.com/report/github.com/peasytools/peasytext-go)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://agentgif.com/badge/github/peasytools/peasytext-go/stars.svg)](https://github.com/peasytools/peasytext-go)
 
 Go client for the [PeasyText](https://peasytext.com) API -- text case conversion, slug generation, word counting, and encoding utilities with tools for camelCase, snake_case, kebab-case, PascalCase, and more. Zero dependencies beyond the Go standard library.
 
